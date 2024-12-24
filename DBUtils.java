@@ -1,3 +1,4 @@
+We are updating dev branch.
 To check diff
 We are in dev branch
 This is the file that contains DB Related code 
